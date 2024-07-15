@@ -1,0 +1,54 @@
+t 25.0 115.0 t0 0 w n
+p 120.0 85.0 p0 0 n confirmacionInsumos ne
+p 125.0 160.0 p1 0 n confirmacionEquipos ne
+t 310.0 50.0 t1 c 0 w n i_si ne
+t 305.0 100.0 t2 c 0 w n i_no ne
+t 305.0 160.0 t3 c 0 w n e_si ne
+t 305.0 215.0 t4 c 0 w n e_no ne
+p 405.0 55.0 p2 0 n
+p 405.0 120.0 p3 0 n
+p 405.0 185.0 p4 0 n
+p 405.0 255.0 p5 0 n
+t 495.0 55.0 t5 0 w n
+t 500.0 155.0 t6 0 w n
+t 490.0 225.0 t7 0 w n
+t 490.0 280.0 t8 0 w n
+p 590.0 55.0 p6 0 n en_espera ne
+p 590.0 260.0 p7 0 n rechazo ne
+t 110.0 340.0 t9 c 0 w n arranque ne
+p 245.0 340.0 p8 0 n en_operacion ne
+t 350.0 345.0 t10 c 0 w n completada ne
+t 345.0 425.0 t11 c 0 w n fallo ne
+p 570.0 425.0 p10 0 n finalizada_fallo ne
+p 570.0 345.0 p9 0 n completada ne
+e t11 p10 1 n
+e t10 p9 1 n
+e p8 t11 1 n
+e p8 t10 1 n
+e t9 p8 1 n
+e p6 0.7011759742 168.884576 t9 0.1152679676 138.8524397 1 n
+e t8 p7 1 n
+e t7 p7 1 n
+e t6 p7 1 n
+e t5 p6 1 n
+e p5 t8 1 n
+e p3 t8 1 n
+e p2 t7 1 n
+e p5 t7 1 n
+e p4 t6 1 n
+e p3 t6 1 n
+e p4 t5 1 n
+e p2 t5 1 n
+e t4 p5 1 n
+e t3 p4 1 n
+e t2 p3 1 n
+e t0 p1 1 n
+e t0 p0 1 n
+e p1 t4 1 n
+e p1 t3 1 n
+e p0 t2 1 n
+e p0 t1 1 n
+e t1 p2 1 n
+h ordProd
+
+

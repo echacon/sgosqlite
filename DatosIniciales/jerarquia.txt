@@ -1,0 +1,12 @@
+n, 1, Empresa Empresa, 0
+n, 2, Compras, 1
+n, 3, Mercadeo y Ventas, 1
+n, 4, Administracion, 1
+n, 5, Planificacion, 1
+n, 6, Produccion, 1
+n, 7, Inventarios y Almacen, 1
+f, 1, Taller 1, 6, 0
+f, 2, Taller 2, 6, 0
+f, 3, Taller 3, 6, 0
+f, 4, Almacen 1, 7, 0
+f, 5, Almacen 2, 7, 0

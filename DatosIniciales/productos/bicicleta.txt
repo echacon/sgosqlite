@@ -1,0 +1,24 @@
+p0,proceso,en espera cuadros,0,preparacion de cuadros
+p1,proceso,en espera ruedas,0,enllantado
+p2,recurso,libre,1,taller cuadro
+p3,insumos,lista 1
+p4,proceso,montaje cuadros,12000,preparacion de cuadros
+p5,proceso,cuadro listo,0,preparacion de cuadros
+p6,recurso,libre 2,enllantado
+p7,insumos,lista 2
+p8,proceso,montaje de las ruedas,1200,enllantado
+p9,proceso,ruedas armadas,0,enllantado
+p10,insumos,lista 3
+p11,proceso,ensamble de cuadros ruedas,600,ensamblaje
+p12,recursos,libre 3,preparacion accesorios
+p13,proceso,finalizacion del proceso,1200,preparacion accesorios
+p14,proceso,producto listo,0,vacio
+p15,proceso,orden recibida,0,vacio
+t0,mensaje:inicio_orden,m1:iniciada orden
+t1,mensaje:inicio_cuadros
+t2,mensaje:fin_cuadros
+t3,mensaje:inicio_ruedas
+t4,mensaje:fin_ruedas
+t5,mensaje:inicio_ensamble
+t6,mensaje:inicio_accesorios
+t7,mensaje:fin_accesorios,m1:fin orden

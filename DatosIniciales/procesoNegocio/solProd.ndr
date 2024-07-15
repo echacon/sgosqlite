@@ -1,0 +1,51 @@
+p 120.0 130.0 p0 0 n
+p 330.0 75.0 p1 0 n analisis_insumos ne
+t 435.0 70.0 t3 c 0 w n si ne
+p 520.0 70.0 p4 0 n
+t 435.0 130.0 t4 c 0 w n no ne
+p 325.0 220.0 p3 0 n Analisis_equi ne
+t 435.0 205.0 t5 0 w n
+t 435.0 270.0 t6 0 w n
+p 515.0 135.0 p5 0 n
+p 510.0 210.0 p6 0 n
+p 505.0 275.0 p7 0 n
+p 765.0 335.0 p2 0 n rechazo ne
+t 625.0 70.0 t7 0 w n
+t 625.0 165.0 t8 0 w n
+t 630.0 240.0 t9 0 w n
+t 625.0 305.0 t10 0 w n
+p 745.0 70.0 p8 0 n Orden_produccion ne
+p 30.0 50.0 p9 1 n inicio ne
+t 30.0 130.0 t0 c 0 w n recepcion ne
+t 170.0 335.0 t2 0 w n
+t 205.0 130.0 t1 c 0 w n existe_modelo ne
+e p9 t0 1 n
+e t0 p0 1 n
+e p0 t2 1 n
+e p0 t1 1 n
+e t2 p2 1 n
+e t1 p1 1 n
+e t1 p3 1 n
+e p1 t3 1 n
+e p1 t4 1 n
+e t3 p4 1 n
+e p3 t5 1 n
+e p3 t6 1 n
+e t4 p5 1 n
+e t5 p6 1 n
+e t6 p7 1 n
+e p6 t7 1 n
+e p4 t7 1 n
+e p5 t8 1 n
+e p7 t8 1 n
+e p5 t10 1 n
+e p6 t10 1 n
+e p4 t9 1 n
+e p7 t9 1 n
+e t8 p2 1 n
+e t9 p2 1 n
+e t10 p2 1 n
+e t7 p8 1 n
+h solProd
+
+

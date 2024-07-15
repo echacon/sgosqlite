@@ -1,0 +1,11 @@
+negocio, planificacion, Planificacion y Programacion de la produccion
+negocio, compras, todos los procesos asociados a las compras: se reciben solicitudes y se generan ordenes
+negocio, ventas, atencion al cliente se reciben solicitudes y se transfieren a produccion o almacen
+negocio, produccion, transformacion de materias en productos de acuerdo a programas de produccion
+negocio, logistica, movimiento de materiales recepcion y entrega generacion de alertas  
+fisica, almacenamiento, almacenamiento de los materiales
+fisica, transporte, traslado entrega recepcion
+fisica, ensamblaje, montaje de las bicicletas
+fisica, preparacion de cuadros, creacion de los cuadros para bicicletas
+fisica, preparacion acsesorios, elementos anexos de la bicicleta
+fisica, enllantado, montaje de llantas y rines

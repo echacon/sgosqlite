@@ -1,0 +1,7 @@
+Jefe Mayor, Presidente, 1
+Pedro Planificador, Planificador, 5
+Juan Planificacion, Responsable unidad, 5
+Juan Inventario, Responsable unidad, 7
+Pedro Vendedor, Responsable unidad, 3
+Pedro Pichirre, Responsable unidad, 2
+Jose Trabajador, Responsable unidad, 6

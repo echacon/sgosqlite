@@ -1,0 +1,39 @@
+t 30.0 175.0 t0 c 0 w n inicio ne
+p 100.0 255.0 p1 0 n espera_llantas ne
+p 115.0 110.0 p0 0 n espera_cuadro ne
+p 270.0 110.0 p4 0 n ejecucion_cuadro ne
+t 205.0 110.0 t1 0 w n
+t 200.0 255.0 t3 0 w n
+p 275.0 255.0 p8 0 n ejecucion_llanta ne
+p 415.0 110.0 p5 0 n espera_por_llanta ne
+t 490.0 185.0 t5 c 0 w n inicio_ensamble ne
+p 555.0 180.0 p11 0 n
+p 700.0 175.0 p13 0 n
+p 30.0 50.0 p15 1 n nueva_orden ne
+t 350.0 255.0 t4 c 0 w n fin_llanta e
+p 420.0 255.0 p9 0 n espera_por_cuadro ne
+t 345.0 110.0 t2 c 0 w n fin_cuadro e
+t 635.0 180.0 t6 c 0 w n inicio_accesorios ne
+t 770.0 175.0 t7 c 0 w n fin_accesorio ne
+p 840.0 175.0 p14 0 n producto ne
+e p15 t0 1 n
+e t0 p0 1 n
+e t0 p1 1 n
+e p0 t1 1 n
+e t1 p4 1 n
+e p4 t2 1 n
+e t2 p5 1 n
+e p1 t3 1 n
+e t3 p8 1 n
+e p8 t4 1 n
+e t4 p9 1 n
+e p5 t5 1 n
+e p9 t5 1 n
+e t5 p11 1 n
+e p11 t6 1 n
+e t6 p13 1 n
+e p13 t7 1 n
+e t7 p14 1 n
+h bicicletared
+
+

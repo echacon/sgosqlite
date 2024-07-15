@@ -1,0 +1,7 @@
+Almacen 1,almacenamiento,1000
+Almacen 2,almacenamiento,1000
+Taller 1,preparacion de cuadros,20
+Taller 2,ensamblaje,40
+Taller 2,preparacion acsesorios,40
+Taller 3,preparacion de cuadros,20
+Taller 3,enllantado,100

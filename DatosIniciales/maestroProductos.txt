@@ -1,0 +1,12 @@
+bicicleta,p000001,si,no,si,no,no
+sillin,i000001,no,si,no,si,no
+tubo 1,i000002,no,si,no,si,no
+tubo 2,i000003,no,si,no,si,no
+tubo 3,i000004,no,si,no,si,no
+rin 24,i000005,no,si,no,si,no
+neumatico,i000006,no,si,no,si,no
+espejo,i000007,no,si,no,si,no
+cadena,000008,no,si,no,si,no
+pedal,i000009,no,si,no,si,no
+cuadro,pi00001,si,no,no,si,si
+manubrio,pi00002,si,no,no,si,si

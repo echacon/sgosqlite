@@ -1,0 +1,4 @@
+Planificador: Responsable de la planificacion de la producción
+Responsable unidad: Toma decisiones dentro de la unidad
+Presidente: Toma decisiones en toda la empresa
+Supervisor producción: Responsable del manejo de las operaciones de produccion

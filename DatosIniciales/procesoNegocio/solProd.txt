@@ -1,0 +1,21 @@
+nombre,Solicitud de Produccion
+p0,nulo
+p1,logistica
+p3,produccion
+p4,logistica
+p5,logistica
+p6,produccion
+p7,produccion
+p2,planificacion
+p8,planificacion
+p9,planificacion
+t1,rol:planificador
+t2,rol:Planificador    
+t3,mensaje:insumos si
+t4,mensaje:insumos no
+t5,mensaje:equipos si
+t6,mensaje:equipos no
+t7,vacio,m1:crear orden;m2:confirmar equipo;m3:confirmar recurso
+t8,vacio,m1:liberar reservacion
+t9,vacio
+t10,vacio,m1:liberar reservacion
